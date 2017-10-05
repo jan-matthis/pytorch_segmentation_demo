@@ -7,7 +7,6 @@ Implemenation of a basic U-Net architecture for segmentation in PyTorch.
 
 If you want to execute the notebook, make sure that you have the following packages installed (e.g. using `pip` or `conda`):
 - PyTorch, see http://pytorch.org/
-- scitkit-image, see http://scikit-image.org/download
 - tqdm, a progress bar module, see https://github.com/tqdm/tqdm#installation
 
 
